@@ -44,4 +44,21 @@ python src/train_k_fold.py --integrate_ek=False
 ```
 
 
+## Citation
+
+Please consider citing the following paper when using our code or pretrained models for your application.
+
+```
+@article{https://doi.org/10.1049/cit2.12099,
+author = {Wu, Chenghao and Shi, Shumin and Hu, Jiaxing and Huang, Heyan},
+title = {Knowledge-enriched joint-learning model for implicit emotion cause extraction},
+journal = {CAAI Transactions on Intelligence Technology},
+keywords = {emotion cause extraction, external knowledge fusion, implicit emotion recognition, joint learning},
+doi = {https://doi.org/10.1049/cit2.12099},
+url = {https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/cit2.12099},
+eprint = {https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/cit2.12099},
+}
+
+```
+
 

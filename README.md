@@ -1,5 +1,9 @@
 # KJ-IECE
-Knowledge-Enriched Joint-Learning Implicit Emotion Cause Extraction
+This repository contains the code for our CAAI Transactions on Intelligence Technology paper:
+
+Chenghao Wu, Shumin Shi, Jiaxing Hu and Heyan Huang. Knowledge‐enriched joint‐learning model for implicit emotion cause extraction. CAAI Trans. Intell. Technol. 1–11(2022) [pdf](http://doi.org/10.1049/cit2.12099)
+
+Please cite our paper if you use this code.
 
 
 

@@ -1,5 +1,5 @@
 # KJ-IECE
-This repository contains the code for our CAAI Transactions on Intelligence Technology paper:
+This repository contains the code for our [CAAI Transactions on Intelligence Technology](https://ietresearch.onlinelibrary.wiley.com/journal/24682322) (SCI, Q1) paper:
 
 Chenghao Wu, Shumin Shi, Jiaxing Hu and Heyan Huang. Knowledge‐enriched joint‐learning model for implicit emotion cause extraction. CAAI Trans. Intell. Technol. 1–11(2022) [[pdf](http://doi.org/10.1049/cit2.12099)]
 
